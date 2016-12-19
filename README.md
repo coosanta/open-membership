@@ -10,11 +10,11 @@ Install Wordpress 4.6+
 
 
 ## Install
-Install open-membership.zip Plugin Files
-Follow normal wordpress plugin install and activate.
+1. Install open-membership.zip Plugin Files
+2. Follow normal wordpress plugin install and activate.
 
 
 # Usage
-1) Set Membership First.
-2) Set Member DB.
-3) Set Member Login/Join Page.
+1. Set Membership First.
+2. Set Member DB.
+3. Set Member Login/Join Page.
