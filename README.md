@@ -1,13 +1,20 @@
 # open-membership
-wordpress membership plugin for O2O, B2B-B2C
+This program is designed for WordPress plugins.
+It is a membership management plug-in that start-up companies need these days.
+You can implement O2O, B2B-B2C service with this plug-in.
+
 
 # Developer
 ## Prerequisite
 Install Wordpress 4.6+
-Install open-membership.zip Plugin Files
+
 
 ## Install
+Install open-membership.zip Plugin Files
 Follow normal wordpress plugin install and activate.
 
+
 # Usage
-Set memebership edit
+1) Set Membership First.
+2) Set Member DB.
+3) Set Member Login/Join Page.
